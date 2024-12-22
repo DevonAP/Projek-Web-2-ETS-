@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    color: #333;
+}
+
+.dashboard {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.player button {
+    padding: 15px 30px;
+    border: none;
+    background-color: #008CBA;
+    color: white;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.player button:hover {
+    background-color: #007B9A;
+}
